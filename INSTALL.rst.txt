@@ -18,7 +18,7 @@ Recommended distributions are:
 
   - Enthought Canopy (https://www.enthought.com/products/canopy/)
   - Anaconda (https://store.continuum.io/cshop/anaconda)
-  - Python(x,y) (http://code.google.com/p/pythonxy/)
+  - Python(x,y) (https://python-xy.github.io/)
   - WinPython (http://code.google.com/p/winpython/)
 
 
